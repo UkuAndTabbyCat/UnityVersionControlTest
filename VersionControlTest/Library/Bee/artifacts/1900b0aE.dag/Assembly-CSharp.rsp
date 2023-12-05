@@ -367,6 +367,7 @@
 "Assets/Scripts/BossEnemy.cs"
 "Assets/Scripts/Enemy.cs"
 "Assets/Scripts/GreenEnemy.cs"
+"Assets/Scripts/MenuManager.cs"
 "Assets/Scripts/PlayerController.cs"
 "Assets/Scripts/RedEnemy.cs"
 -langversion:9.0
